@@ -1,6 +1,5 @@
 ![Showcase of the Frosty app with screenshots in a masonry grid](https://github.com/tommyxchow/frosty/assets/54859075/09178dcc-2fd2-4618-8076-502719159424)
 
-
   <a href="https://play.google.com/store/apps/details?id=com.tommychow.frosty">
     <img
       title="Get it on Android (Google Play Store)"
