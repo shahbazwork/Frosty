@@ -1,15 +1,7 @@
 ![Showcase of the Frosty app with screenshots in a masonry grid](https://github.com/tommyxchow/frosty/assets/54859075/09178dcc-2fd2-4618-8076-502719159424)
 
 ## Download
-<p>
-  <a href="https://apps.apple.com/us/app/frosty-for-twitch/id1603987585">
-    <img
-      title="Get it on iOS (Apple App Store)"
-      alt="Apple App Store badge."
-      src="https://user-images.githubusercontent.com/54859075/160051843-1d8b2186-97e9-4edd-a957-bb4797b71b4a.svg"
-      width="200px"
-    />
-  </a>
+
   <a href="https://play.google.com/store/apps/details?id=com.tommychow.frosty">
     <img
       title="Get it on Android (Google Play Store)"
